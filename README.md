@@ -46,7 +46,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 *Figure 2: Screenshot of the Input Form*
 
-![Input Form](output(2)/input.png "Input Form")
+![Input Form](output/input.png "Input Form")
 
 *Figure 3: Screenshot of the Output Page*
 
